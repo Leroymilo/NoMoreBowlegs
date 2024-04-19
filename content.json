@@ -2,8 +2,8 @@
 	"Format": "2.0.0",
 	"ConfigSchema": {
 		"Enable": {
-			"AllowValues": "Abigail, Caroline, Leah, Maru",
-			"Default": "Abigail, Caroline, Leah, Maru",
+			"AllowValues": "Abigail, Caroline, Jodi, Leah, Maru",
+			"Default": "Abigail, Caroline, Jodi, Leah, Maru",
 			"AllowMultiple": true,
 			"AllowBlank": true,
 			"Description": "Tick which characters you'd like this mod to edit."
